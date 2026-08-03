@@ -1,0 +1,51 @@
+# Core AI Libraries
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-mistralai
+
+# Hugging Face
+transformers
+huggingface_hub
+sentence-transformers
+accelerate
+tokenizers
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Vector Embeddings (optional but commonly used)
+faiss-cpu
+
+# Environment Variables
+python-dotenv
+
+# API Requests
+requests
+httpx
+
+# Data Processing
+numpy
+pandas
+
+# Token Counting
+tiktoken
+
+# Optional (for Jupyter)
+ipykernel
+jupyter
+
+# Optional (for RAG)
+pypdf
+unstructured
+chromadb
+
+# Optional Web Frameworks
+fastapi
+uvicorn
+
+# Optional Utilities
+tqdm
