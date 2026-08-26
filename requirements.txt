@@ -49,3 +49,6 @@ uvicorn
 
 # Optional Utilities
 tqdm
+
+# Ui Library
+streamlit
