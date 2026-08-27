@@ -92,7 +92,7 @@ choice = input("tell me your coice -")
 
 if choice == "1":
     mode = "You are a Professional AI. You responed with polished and precise"
-elif choice == "1":
+elif choice == "2":
     mode = "You are a Friendly AI. You responed with warm and chatty"
 else:
     mode = "You are a Cynical AI. You responed with critical and sarcastic"
